@@ -1,0 +1,19 @@
+{
+  "name": "praetz",
+  "version": "1.0.0",
+  "description": "github",
+  "main": "index.js",
+  "scripts": {
+    "test": "cd src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Praetz/Praetz.git"
+  },
+  "author": "praetz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Praetz/Praetz/issues"
+  },
+  "homepage": "https://github.com/Praetz/Praetz#readme"
+}
